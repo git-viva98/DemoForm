@@ -1,0 +1,100 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #94d1cd;
+    background-position: center;
+    background-size: cover;
+}
+
+.form-box {
+    margin: auto;
+    width: 30%;
+    /* border: 3px solid #73AD21; */
+    padding: 70px 10px;
+    margin-top: 70px;
+    background-color: teal;
+    text-align: center;
+}
+
+.inputs > input{
+    border: none;
+    background-color: #94d1cd;
+    border-bottom: 2px solid white;
+    width: 80%;
+}
+
+.title{
+    font-family: 'Langar', cursive;
+    color: wheat;
+}
+}
+
+
+/* #registration{
+    width: 450px;
+    height:450px;
+    background:#1f7c8c;
+    color: white;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 30px 30px 30px 45px;
+    border-radius: 5%;
+}
+#title{
+    color: white;
+    position: relative;
+    top: -30px;
+    left: 70px;
+    font-size: 25px;
+    font-family: 'Bungee Outline', cursive;
+}
+.registrationbox input{
+    width:90%;
+    margin-bottom:3%;
+    /*color: black;*/
+/* }
+.registrationbox input[type="text"], input[type="tel"], input[type="text"]{
+    border: none;
+    border-bottom: 1px solid #000;
+    background: transparent;
+    /* outline:none; */
+    /* height: 20px;
+    color:white;
+    font-size: 16px;
+}
+.submit-button {
+    background-color: #4CAF40;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 15px; */
+    /*margin-left: 7%;*/
+/* }
+::placeholder{
+    color: white;
+    opacity: 0.5; */
+/* } */
+/* .btn_back_to_login {
+    background-color: #4CAF40;
+    border: none;
+    color: white;
+    width: 90%;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 15px; */
+    /*margin-left: 11%;*/
+/* } */
